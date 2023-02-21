@@ -1,5 +1,3 @@
-from PyQt5.QtGui import QPixmap
-
 class Style:
     TURN = -1
 
